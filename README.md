@@ -29,7 +29,7 @@ The project required the following user stories to be satisfied:
 
 ## Getting Started
 
-This form is not Live.
+This form can be viewed live at https://cdubs61.github.io/Survey-Form-Project/
 
 If you want to run this project locally, follow these steps:
 
